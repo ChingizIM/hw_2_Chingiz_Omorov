@@ -11,7 +11,6 @@ public class Main {
         System.out.println(Pogoda(46, 20));
         System.out.println(Pogoda(24, 22));
         System.out.println(Pogoda(39, 20));
-
     }
 
     public static String Pogoda(int age, int temperature) {
